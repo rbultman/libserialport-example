@@ -19,7 +19,7 @@ sudo apt install build-essential
 
 You also need to install libserialport:
 ```
-sudo apt install libserial-dev
+sudo apt install libserialport-dev
 ```
 
 ### Building
